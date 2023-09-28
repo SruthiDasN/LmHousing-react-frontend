@@ -1,10 +1,17 @@
 import Header from './components/Header/Header'
 import Hero from './components/Hero/Hero';
+import './App.css';
+import Companies from './components/companies/companies';
 function App() {
   return (
+ 
     <div className="App">
-      <Header />
-      <Hero />
+        <div>
+          <div className="white-gradient" />
+          <Header />
+          <Hero />
+      </div>
+      <Companies />
     </div>
   );
 }
