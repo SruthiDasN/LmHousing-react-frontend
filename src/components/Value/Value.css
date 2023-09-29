@@ -43,3 +43,18 @@
 .accordionButton .primaryText {
     font-size: 1.1rem;
 }
+
+@media (max-width: 1024px) {
+    .v-container {
+        flex-direction: column;
+    }
+    .v-right {
+        align-items: center;
+    }
+
+    @media (max-width: 768px) {
+        .accordionButton .primaryText{
+            font-size: 0.8rem;
+        }
+    }
+}

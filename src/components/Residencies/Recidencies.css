@@ -66,3 +66,12 @@
     background-color: white;
     cursor: pointer;
 }
+
+@media (max-width: 640px) {
+    .r-head {
+        align-items: center;
+    }
+    .r-buttons {
+        position: initial;
+    }
+}
