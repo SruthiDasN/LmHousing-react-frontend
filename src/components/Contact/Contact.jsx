@@ -12,7 +12,7 @@ const Contact = () => {
             <span className='orangeText'>Contact Us</span>
             <span className='primaryText'>Easy to contact us</span>
             <span secondaryText>We always ready to help you by providing the best service<br/>
-            We believe a good place to live can make your life better
+            We believe that a good place to live can enhance your quality of life
             </span>
 
             <div className="flexColStart contactModes">
@@ -84,7 +84,7 @@ const Contact = () => {
         {/* right side */}
         <div className="c-right">
             <div className="image-container">
-                <img src="./contact.jpg" alt="contact image" />
+                <img src="./office.jpg" alt="contact image" />
             </div>
         </div>
 

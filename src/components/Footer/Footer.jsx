@@ -9,8 +9,8 @@ const Footer = () => {
                 <img className='img' src="./LMlogo1.png" alt="logo" />
 
                 <span className="secondaryText">
-                    Our vision is to make all people <br />
-                    the best place to live for them.
+                Our vision is to make it possible for all people<br />
+                to find the best places to live for them.
                 </span>
             </div>
 

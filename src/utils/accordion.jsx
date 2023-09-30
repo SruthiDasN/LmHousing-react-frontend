@@ -5,19 +5,19 @@ const data = [
     icon: <HiShieldCheck/>,
     heading: "Best interest rates on the market",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "At LM HOUSING, we're committed to helping you secure the best interest rates on the market, ensuring your real estate investment is as cost-effective as possible.",
   },
   {
     icon: <MdCancel />,
     heading: "Prevent unstable prices",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "Say goodbye to the uncertainty of fluctuating property values. We're dedicated to offering stable pricing alongside unbeatable interest rates to safeguard your investment.",
   },
   {
     icon: <MdAnalytics />,
     heading: "Best price on the market",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "With our extensive market knowledge and dedication to our clients, we consistently offer the best prices for real estate opportunities that are second to none.",
   },
 ];
 export default data;

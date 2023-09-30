@@ -28,8 +28,8 @@ const Hero = () => {
                     </motion.h1>
                 </div>
                 <div className="flexColStart hero-des">
-                    <span className='secondaryText'>Find a variety of properties that suit you very easily</span>
-                    <span className='secondaryText'>Forget all difficulties in finding a residence for you</span>
+                    <span className='secondaryText'>Discover your perfect property effortlessly,</span>
+                    <span className='secondaryText'>with a diverse range of options tailored to your preferences</span>
                 </div>
 
                 <div className="flexCenter search-bar">
